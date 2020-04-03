@@ -1,0 +1,13 @@
+"D:\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\Embedded Workbench 8.3\arm\bin\armjlink2.dll" 
+
+"D:\Desktop\great_clock(usb)\EWARM\great_clock\Exe\great_clock.out" 
+
+--plugin="D:\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR Systems\Embedded Workbench 8.3\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+
+
+
